@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/WebProj1/static/css/main.58580fdf.css",
-    "main.js": "/WebProj1/static/js/main.c30b20e7.js",
+    "main.css": "/WebProj1/static/css/main.3fc23616.css",
+    "main.js": "/WebProj1/static/js/main.9c6bfd02.js",
     "static/js/453.26c464f4.chunk.js": "/WebProj1/static/js/453.26c464f4.chunk.js",
     "static/media/cube.gif": "/WebProj1/static/media/cube.e2f5bb36ca65c0e75fd1.gif",
     "static/media/AI_ML 2 (2).svg": "/WebProj1/static/media/AI_ML 2 (2).698d7afed12d68f7e02e3bada0a55e19.svg",
@@ -65,13 +65,12 @@
     "static/media/TwitterDark.svg": "/WebProj1/static/media/TwitterDark.af700b85c3c16300bf1bb541faddece7.svg",
     "static/media/Social Media Icon Square.svg": "/WebProj1/static/media/Social Media Icon Square.80b13c89e1e7008280c744a265e4396e.svg",
     "static/media/Arrow Right.svg": "/WebProj1/static/media/Arrow Right.fae4e217e7afad8e8fe53afd7326ee3d.svg",
-    "static/media/image.svg": "/WebProj1/static/media/image.64aa60687927f8d88962.svg",
-    "main.58580fdf.css.map": "/WebProj1/static/css/main.58580fdf.css.map",
-    "main.c30b20e7.js.map": "/WebProj1/static/js/main.c30b20e7.js.map",
+    "main.3fc23616.css.map": "/WebProj1/static/css/main.3fc23616.css.map",
+    "main.9c6bfd02.js.map": "/WebProj1/static/js/main.9c6bfd02.js.map",
     "453.26c464f4.chunk.js.map": "/WebProj1/static/js/453.26c464f4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.58580fdf.css",
-    "static/js/main.c30b20e7.js"
+    "static/css/main.3fc23616.css",
+    "static/js/main.9c6bfd02.js"
   ]
 }
