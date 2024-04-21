@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/WebProj1/static/css/main.e27fc6d6.css",
-    "main.js": "/WebProj1/static/js/main.47de8761.js",
+    "main.css": "/WebProj1/static/css/main.2315e5d3.css",
+    "main.js": "/WebProj1/static/js/main.3fa97f38.js",
     "static/js/453.26c464f4.chunk.js": "/WebProj1/static/js/453.26c464f4.chunk.js",
     "static/media/cube.gif": "/WebProj1/static/media/cube.e2f5bb36ca65c0e75fd1.gif",
     "static/media/Product Engineering.svg": "/WebProj1/static/media/Product Engineering.20426633f35a32c95e58b45cc065968b.svg",
@@ -161,12 +161,12 @@
     "static/media/Social Media Icon Square.svg": "/WebProj1/static/media/Social Media Icon Square.80b13c89e1e7008280c744a265e4396e.svg",
     "static/media/Arrow Right.svg": "/WebProj1/static/media/Arrow Right.fae4e217e7afad8e8fe53afd7326ee3d.svg",
     "static/media/DownArrow.svg": "/WebProj1/static/media/DownArrow.29b945b92dbe8b39c05ef3e916a7c90a.svg",
-    "main.e27fc6d6.css.map": "/WebProj1/static/css/main.e27fc6d6.css.map",
-    "main.47de8761.js.map": "/WebProj1/static/js/main.47de8761.js.map",
+    "main.2315e5d3.css.map": "/WebProj1/static/css/main.2315e5d3.css.map",
+    "main.3fa97f38.js.map": "/WebProj1/static/js/main.3fa97f38.js.map",
     "453.26c464f4.chunk.js.map": "/WebProj1/static/js/453.26c464f4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e27fc6d6.css",
-    "static/js/main.47de8761.js"
+    "static/css/main.2315e5d3.css",
+    "static/js/main.3fa97f38.js"
   ]
 }
