@@ -1,0 +1,43 @@
+.servicesHeading{
+    width: 75.694vw;
+}
+.servicesText{
+    width: 69.236vw;
+    text-align: center;
+    /* margin-top: 1.111vw;
+    margin-bottom: 3.472vw; */
+}
+.servicesContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.servicesList{
+    width: 85.278vw;
+    gap: 1.944vw;
+    /* border:1px solid red */
+}
+.services{
+    padding: 2.917vw 0vw;
+}
+.seeAllBtn{
+    border: 1px solid #552ACA;
+    border-radius: 2538vw;
+    padding: 1.111vw 1.667vw;
+    color: #552ACA;
+}
+.gap50{
+    gap: 3.472vw;
+}
+
+
+@media only screen and (max-width: 768px){
+    .servicesList{
+      justify-content: center;
+    gap: 6.944vw;
+    }
+    .ServicescardContainer{
+      width: 33.944vw;
+    }
+  }

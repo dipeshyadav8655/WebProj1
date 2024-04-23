@@ -1,0 +1,16 @@
+.whyUsContainer{
+    background-color: #08052F;
+    width: 100.139vw;
+    padding-top: 2.083vw;
+    padding-bottom: 4.861vw;
+}
+.choseUsImage{
+    width: 80.208vw;
+}
+.choseUsImage img{
+    width: 100%;
+}
+/* .whyUsDescription{
+    margin-top: 1.111vw;
+    margin-bottom: 3.472vw;
+} */

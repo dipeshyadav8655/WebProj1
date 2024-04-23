@@ -1,0 +1,11 @@
+.button{
+    /* width: 14.819vw; */
+    border-radius: 2.778vw;
+    padding: 1.667vw 2.5vw;
+}
+.button img{
+    margin-left: 0.556vw;
+}
+.gap24{
+    gap:1.667vw,
+}

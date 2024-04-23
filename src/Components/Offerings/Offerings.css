@@ -1,0 +1,12 @@
+.OfferingHeading{
+    width: 84.977vw;
+    padding: 3.542vw 0;
+}
+.CardsContainer{
+    column-gap: 2.222vw;
+    row-gap: 3.889vw;
+    padding-bottom: 3.542vw;
+}
+.OfferingContainer{
+    padding: 0 3.958vw;
+}

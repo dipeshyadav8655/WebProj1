@@ -1,0 +1,19 @@
+.msgContainer{
+    width: 64.722vw;
+    background-color: #08052F;
+    padding: 2.708vw 5vw;
+    border-radius: 3.472vw;
+    border-top-left-radius: 0px;
+}
+.msgTitle{
+    color: white;
+    font-size: 1.944vw;
+    font-weight: bold;
+}
+.msgText{
+    width: 54.722vw;
+    font-size: 1.25vw;
+    font-weight: normal;
+    color: white;
+    margin-top: 1.667vw;
+}

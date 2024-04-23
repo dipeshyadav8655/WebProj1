@@ -1,0 +1,159 @@
+.ContactUs{
+    background-color: #08052F;
+    padding: 6.599vw 5.077vw; 
+    display: flex;
+    justify-content: space-between;
+}
+.Form{
+    width: 41.806vw;
+    background-color: #15123C;
+    border: 1px solid #66638D;
+    border-radius: 1.667vw;
+    padding: 6.111vw 3.889vw;
+}
+.Submit{
+    margin-top: 2.153vw;
+    width: 13.333vw;
+    height: 3.819vw;
+    /* background:radial-gradient(#EABFFF,#98F9FF); */
+    border-radius: 4.876vw;
+    border: 0.139vw;
+    background-image: url('../../Assets/Rectangle 1.svg');
+    background-repeat: no-repeat;
+    color: white;
+    background-size: cover;
+}
+
+.InputDiv{
+    margin-bottom: 1.667vw;
+    height: 3.819vw;
+}
+.TextDiv{
+    height: 9.089vw;
+    padding-top: 0.868vw;
+    align-items: flex-start;
+}
+input{
+    border: none;
+    background:inherit;
+    color: white;
+    outline: none;
+    width: inherit;
+    border-radius: 0.694vw;
+}
+input::placeholder{
+    color: white;
+}
+textarea{
+    border: none;
+    background:inherit;
+    outline: none;
+    color: white;
+    width: inherit;
+    height: 7vw;
+    resize: none;
+}
+textarea::placeholder{
+    color: white;
+}
+.Icon{
+    margin: 0 1.167vw;
+}
+.Detail{
+    margin-left: 7.778vw;
+}
+.heading{
+    color: white;
+    font-family: DM Sans;
+    font-size: 3.889vw;
+    font-weight: bold;
+   
+}
+.subText{
+    margin: 1.111vw 0 2.083vw 0;
+}
+.subDetail{
+    margin-top: 1.111vw;
+}
+.SocialLinks{
+    margin-top: 3.472vw;
+}
+.Links{
+    background-color: #000000;
+    padding: 3.625vw 7.664vw;
+    justify-content: space-between;
+}
+.LogoDiv{
+    width: 23.653vw;
+}
+.linkDiv{
+   padding-top: 2.778vw;
+}
+.linkHeading{
+    padding-bottom: 2.778vw;
+}
+.anchor{
+    color: #E8E8E8;
+    font-family: DM Sans;
+    font-size: 1.25vw;
+    font-weight: normal;
+}
+.DarkIcon{
+    width: 2.5vw;
+    height: 2.5vw;
+}
+.FooterIcon{
+    width: 8.153vw;
+    height: 8.153vw;
+}
+.linkContainer{
+    width: 16.944vw;
+    display: flex;
+    gap: 1.111vw;
+}
+hr{
+  border-color: #EFEAFC;
+}
+.footerResponsive{
+    display: flex;
+    gap: 5.5vw;
+}
+.CopyRight{
+    margin-top: 2.236vw;
+}
+
+
+
+@media only screen and (max-width: 768px){
+    .ContactUs{
+        flex-direction: column-reverse;
+        align-items: center;
+        gap: 4.861vw;
+    }
+    .Detail{
+        text-align: center;
+        margin-left: 0vw;
+    }
+    .subDetail{
+        justify-content: center;
+    }
+    .SocialLinks{
+        justify-content: center;
+    }
+    .footerResponsive{
+        /* flex-direction: column; */
+    align-items: center;
+    gap: 40px;
+    }
+    .Links{
+        flex-direction: column-reverse;
+        align-items: center;
+        gap: 40px;
+    }
+    .LogoDiv{
+        text-align: center;
+    }
+    .linkDiv{
+        justify-content: center;
+    }
+  }

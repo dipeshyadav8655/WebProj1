@@ -1,0 +1,29 @@
+.ServicePageHeroContainer{
+    background-color: #1a1e29;
+    width: 100vw;
+    
+}
+.heroText{
+    color: white;
+}
+.leftContainer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.Title-text{
+    font-family: DM Sans;
+  font-size: 3.646vw;
+  font-weight: bold;
+}
+.ButtonCaontainer{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.HeroImg{
+    width: 43.958vw;
+}

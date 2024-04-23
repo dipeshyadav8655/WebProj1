@@ -1,0 +1,16 @@
+.testimonialCard{
+  width: 25.556vw;  
+  border-radius: 1.111vw;
+  padding: 2.153vw 3.75vw 2.153vw 1.875vw;
+}
+.text45{
+    font-size: 3.125vw;
+    font-weight: bold;
+}
+.text20{
+    font-size: 1.389vw;
+    font-weight: normal,
+}
+.icon img{
+    width: 2.5vw;
+}

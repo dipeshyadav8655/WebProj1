@@ -1,0 +1,107 @@
+.navContainer{
+    height: 8.264vw;
+    padding-right: 7.639vw;
+    padding-left: 4.737vw;
+}
+.menu{
+    gap: 2.292vw;
+}
+.logo{
+    gap:1.139vw;
+}
+.logo img{
+    margin-top: 0.825vw;
+    height: 6.158vw;
+    width: 6.158vw;
+}
+.navDropDown{
+    position: absolute;
+    top: 6.944vw;
+    /* right: 540px; */
+    width: 100vw;
+    height: 100%;
+    /* left: 158px; */
+    background-color: transparent;
+    /* width: 250px; */
+    /* color: black; */
+    /* padding: 3.354vw 8.472vw 2.061vw 8.472vw; */
+    z-index: 1;
+}
+.navLink{
+    text-decoration: none;
+    color: black;
+    margin: 1.389vw 0.694vw;
+    cursor: pointer;
+}
+.subLink p{
+    margin-top: 16px;
+}
+
+.downArrow{
+    width: 0.972vw;
+}
+.LeftPanel{
+    position: absolute;
+    top: 0px;
+    z-index: 1;
+    color: #5D2EDE;
+    background-color: white;
+    width: 100vw;
+    height: 100vw;
+}
+.left-panel {
+    height: 100vh; /* Full height of the viewport */
+    /* width: 250px; Width of the left panel */
+    background-color: #f0f0f0; /* Light gray background color */
+    padding: 20px; /* Padding around the content */
+  }
+  
+  .navigation {
+    list-style: none; /* Remove default list styles */
+    padding: 0;
+  }
+  
+  .navigation ul {
+    padding: 0;
+  }
+  
+  .navigation li {
+    cursor: pointer; /* Show pointer cursor on hover */
+    padding: 10px 0;
+  }
+  
+  .dropdown {
+    display: none; /* Initially hide dropdown menu */
+    list-style: none; /* Remove default list styles */
+    padding: 0;
+  }
+  
+  .navigation li:hover .dropdown {
+    display: block; /* Show dropdown menu on hover */
+  }
+  
+  .dropdown li {
+    padding: 5px 0;
+  }
+  
+  .dropdown li:hover {
+    background-color: #e0e0e0; /* Light gray background color on hover */
+  }
+  .HamBurger{
+    display: none;
+  }
+
+  @media only screen and (max-width: 768px){
+
+    .HamBurger{
+        display: block;
+        cursor: pointer;
+    }
+    .menu{
+        display: none;
+    }
+    .contact{
+        display: none;
+    }
+    
+}
