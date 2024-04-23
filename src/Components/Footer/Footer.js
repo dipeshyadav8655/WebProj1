@@ -88,8 +88,7 @@ function Footer() {
               <img className="Icon FooterIcon" src={Logo} />
             </div>
             <div className="text-white text">
-              Lorem ipsum dolor sit amet consectetur adipiscing elit aliquam
-              mauris sed ma
+            Sphere Tech Labs, where Innovation meets Transformation!
             </div>
             <div className="flex linkDiv flex-center">
               <div className="linkContainer">

@@ -791,6 +791,28 @@ export const Data = {
       icon: IcEnergy,
       subLink: []
     },
+  ],
+  FAQs: [
+    {
+      id:1,
+      question: "What is OaaS?",
+      answer: "Organization-as-a-Service (OaaS) is a comprehensive approach to organizational management where businesses leverage external providers to access a range of services and expertise, allowing them to optimize operations, drive efficiency, and enhance performance."
+    },
+    {
+      id:2,
+      question: "How does OaaS differ from traditional outsourcing?",
+      answer: "While traditional outsourcing typically involves delegating specific tasks or functions to external vendors, OaaS goes beyond this by offering a holistic approach to organizational management. OaaS providers offer a comprehensive suite of services, including strategic consulting, workflow automation, IT infrastructure management, and more, tailored to the specific needs of each organization."
+    },
+    {
+      id:3,
+      question: "What services are typically included in OaaS offerings?",
+      answer: "OaaS solutions may encompass a wide range of services, including workflow automation, strategic consulting, data analytics, IT infrastructure management, change management, performance monitoring and optimization, and customer experience enhancement, among others."
+    },
+    {
+      id:4,
+      question: "What are the benefits of OaaS for businesses?",
+      answer: "OaaS offers several benefits, including cost efficiency, agility and flexibility, access to specialized expertise, streamlined operations, scalability and growth support, enhanced security and compliance, and improved customer experience. These benefits enable businesses to focus on their core competencies, drive innovation, and stay competitive in today's dynamic business environment."
+    }
   ]
 };
 

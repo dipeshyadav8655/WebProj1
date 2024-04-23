@@ -17,7 +17,7 @@ function Hero() {
                 <div className='heading-text headingContainer'>
                     <p>Maximize Efficiency through Advanced Automation Solutions</p>
                     <div className='subHeading button-text text-white'>
-                        <p>Welcome to Sphere Tech Labs, where Innovation meets Transformation!"</p>
+                        <p>Welcome to Sphere Tech Labs, where Innovation meets Transformation!</p>
                     </div>
                     {/* <div className='flex flex-space-around buttonContainer'>
                         <div className='whiteButton heroButton'>

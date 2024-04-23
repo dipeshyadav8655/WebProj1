@@ -68,7 +68,7 @@ function NavBar() {
           <p style={{color:'white'}}>Menu</p>
         </div>
         <div className='flex flex-space-evenly text-white text menu'>
-          <NavLink to={'home'} style={{ textDecoration: 'none' }} onClick={() => setShowOptions(false)}>
+          <NavLink to={'home'} style={{ textDecoration: 'none',color:'white' }} onClick={() => setShowOptions(false)}>
             Home
           </NavLink>
           <p onClick={() => {
